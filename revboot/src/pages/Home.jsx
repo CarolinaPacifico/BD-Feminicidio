@@ -18,7 +18,7 @@ function Home() {
           <h1>O que é feminicídio</h1>
           <li>O assassinato de mulheres em contextos discriminatórios recebeu uma designação própria: feminicídio. Nomear o problema é uma forma de visibilizar um cenário grave e permanente: milhares de mulheres são mortas todos os anos no Brasil.</li>
           <br/>
-          <h1>Dados Informativos sobre os casos de feminicídio no Brasil entre 2013 e 2022</h1><br/>
+          <h1>Dados Informativos sobre os casos de feminicídio no Brasil entre 2015 e 2022</h1><br/>
           <h2>Os 10 municípios brasileiros com maior número de casos de feminicídio relatados</h2>
           <TabelaMunicipio/>
           <br/>

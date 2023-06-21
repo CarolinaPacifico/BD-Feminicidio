@@ -36,6 +36,7 @@ h1 {
   line-height: 1.1;
   margin-left: 20px;
   margin-right: 25px;
+
 }
 
 li{
@@ -48,10 +49,12 @@ h2 {
   line-height: 1.1;
   margin-left: 20px;
   margin-right: 25px;
+  color: brown;
+
 }
 
-table{
+/* table{
   margin-left: 20px;
   margin-right: 25px;
   width: fit-content;
-}
+} */
